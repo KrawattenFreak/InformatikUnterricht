@@ -12,12 +12,15 @@ public class Aufgabe1_UebungenZumProgrammieren {
 
         if (Alter < 18) {
             JOptionPane.showMessageDialog(null, "Hallo " + Name + "!");
+
         } else if (Geschlecht.equals("Männlich")) {
             JOptionPane.showMessageDialog(null, "Guten Tag Herr " + Name + "!");
-        }else if (Geschlecht.equals("Weiblich")) {
+
+        } else if (Geschlecht.equals("Weiblich")) {
             JOptionPane.showMessageDialog(null, "Guten Tag Frau " + Name + "!");
+
         } else {
-            JOptionPane.showMessageDialog(null, "Ein schwerliegender Fehler ist aufgetreten.");
+            System.out.println("Ein schwerliegender Fehler ist aufgetreten.");
         }
 
         

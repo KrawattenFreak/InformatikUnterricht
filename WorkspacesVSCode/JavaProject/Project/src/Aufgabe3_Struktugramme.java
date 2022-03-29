@@ -12,6 +12,5 @@ public class Aufgabe3_Struktugramme {
         JOptionPane.showMessageDialog(null, "Der Kehrwert von deiner Zahl ist " + Kehrwert + " und die Gegenzahl ist " + Gegenzahl + ".");
 
 
-
     }
 }

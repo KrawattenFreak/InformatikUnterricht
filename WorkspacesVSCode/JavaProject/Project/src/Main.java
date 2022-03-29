@@ -6,11 +6,12 @@ public class Main {
 
         //Aufgabe1_UebungenZumProgrammieren.run();
         
-        //Aufgabe2_UebungenZumProgrammieren.run();
+        Aufgabe2_UebungenZumProgrammieren.run();
 
         //Aufgabe1_Programmieruebungen.run();
 
-        Aufgabe3_Programmieruebungen.run();
+        //Aufgabe4_Programmieruebungen.runB();
+
 
     }
 }

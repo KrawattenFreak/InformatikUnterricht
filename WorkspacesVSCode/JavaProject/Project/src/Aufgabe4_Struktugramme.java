@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Kennwort {
+public class Aufgabe4_Struktugramme {
     
     public static void run() { 
         
