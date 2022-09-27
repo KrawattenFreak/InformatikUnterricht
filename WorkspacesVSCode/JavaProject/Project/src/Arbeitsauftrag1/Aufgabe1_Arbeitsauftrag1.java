@@ -1,3 +1,4 @@
+package Arbeitsauftrag1;
 import javax.swing.JOptionPane;
 
 public class Aufgabe1_Arbeitsauftrag1 {

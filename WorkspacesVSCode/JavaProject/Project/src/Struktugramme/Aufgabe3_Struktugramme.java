@@ -1,3 +1,4 @@
+package Struktugramme;
 import javax.swing.JOptionPane;
 
 public class Aufgabe3_Struktugramme {

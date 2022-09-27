@@ -1,3 +1,4 @@
+package UebungenZumProgrammieren;
 import javax.swing.JOptionPane;
 
 public class Aufgabe1_UebungenZumProgrammieren {

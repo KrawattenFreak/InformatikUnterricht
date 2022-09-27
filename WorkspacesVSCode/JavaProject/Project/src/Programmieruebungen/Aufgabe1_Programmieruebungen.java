@@ -1,3 +1,4 @@
+package Programmieruebungen;
 import javax.swing.JOptionPane;
 
 public class Aufgabe1_Programmieruebungen {
